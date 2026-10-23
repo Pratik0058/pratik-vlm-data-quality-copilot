@@ -73,5 +73,3 @@ This version is a **rule-based QA tool**, not a vision-language model. It does n
 ## Author
 
 **Pratik Sagale** · [GitHub @Pratik0058](https://github.com/Pratik0058)
-
-Independent portfolio project.
