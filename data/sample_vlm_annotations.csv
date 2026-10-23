@@ -1,0 +1,16 @@
+record_id,image_path,caption,label,confidence
+VLM-001,images/street_001.jpg,"A red car waits at a city intersection beside a pedestrian crossing.",vehicle,0.98
+VLM-002,images/park_002.jpg,"A person walks a brown dog along a path in a public park.",animal,0.94
+VLM-003,images/market_003.jpg,"A street market with colorful awnings and people browsing stalls.",scene,0.91
+VLM-004,images/crossing_004.jpg,image,scene,0.40
+VLM-005,images/bus_005.jpg,"A city bus moves along a crowded street.",vehicle,1.12
+VLM-006,images/animal_006.jpg,"A dog sits near a tree.",animal,0.87
+VLM-006,images/unknown_007.jpg,"A person holds a blue umbrella during heavy rain.",person,0.96
+VLM-008,images/text_008.jpg,"Several words are printed on a sign.",text,high
+VLM-009,images/empty_009.jpg,,object,0.73
+VLM-010,images/label_010.jpg,"A cyclist rides past parked vehicles on a residential road.",transport,0.92
+VLM-011,images/short_011.jpg,Car,vehicle,0.88
+VLM-012,images/mug_012.jpg,"A white mug sits on a wooden table beside a book.",object,0.89
+VLM-013,,"A person stands near the entrance of a building.",person,0.93
+VLM-014,images/scene_014.jpg,"A wide view of mountains behind a lake under a cloudy sky.",scene,0.97
+VLM-015,images/unknown_015.jpg,"A black-and-white photograph.",object,-0.2
